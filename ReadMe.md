@@ -4,4 +4,5 @@ This repository contains the data structures/algorithms I re-created to practice
 
 So far, this repository contains:
 1. MySLinkedList (Singly-Linked List)
-2. A Tester file
+2. MyStack (implemented with Singly-Linked List)
+3. A Tester file
