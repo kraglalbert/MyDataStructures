@@ -1,4 +1,4 @@
-#MyDataStructures
+# MyDataStructures
 
 This repository contains the data structures/algorithms I re-created to practice and gain a better understanding of how they work.
 
